@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\Exercise-47.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\Exercise-47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\Exercise-47.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\Exercise-47.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\Exercise-47.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\bin\Debug\net6.0\Exercise-47.exe
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\bin\Debug\net6.0\Exercise-47.deps.json
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\bin\Debug\net6.0\Exercise-47.runtimeconfig.json
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\bin\Debug\net6.0\Exercise-47.dll
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\bin\Debug\net6.0\Exercise-47.pdb
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\Exercise-47.dll
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\refint\Exercise-47.dll
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\Exercise-47.pdb
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\Exercise-47.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Git works\Homework6\Exercise-47\obj\Debug\net6.0\ref\Exercise-47.dll
