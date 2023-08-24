@@ -9,7 +9,6 @@
             arr[i,j] =Math.Round(max*rnd.NextDouble(),2);
         }
     }
-
     return arr;
 }
 
